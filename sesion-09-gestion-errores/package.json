@@ -1,0 +1,15 @@
+{
+  "name": "sesion-09-gestion-errores",
+  "version": "1.0.0",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Pedro Alcoba",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "winston": "^3.17.0"
+  }
+}
