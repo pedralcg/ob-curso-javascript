@@ -2,3 +2,5 @@
 # Ignoramos los ficheros pdf de la carpeta resumenes
 
 resumenes\*.pdf
+
+node_modules
